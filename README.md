@@ -64,11 +64,11 @@ The dataset was manually extracted from **24 real-world YouTube videos** of Egyp
 | Folder | Category | Color | Count |
 |-------|----------|-------|-------|
 | `1_Private_Blue` | Private | Blue | 1219 |
-| `2_Taxi_Orange` | Taxi | Orange | 131 |
+| `2_Taxi_Orange` | Taxi | Orange | 348 |
 | `3_Commercial_Red` | Commercial | Red | 239 |
-| `4_PublicTransport_Grey` | Public | Grey | 193 |
-| `5_Diplomats_Green` | Diplomatic | Green | 141 |
-| `6_TouristTemporary_Yellow` | Tourist/Temporary | Yellow | 348 |
+| `4_PublicTransport_Grey` | Public | Grey | 131 |
+| `5_Diplomats_Green` | Diplomatic | Green | 193 |
+| `6_TouristTemporary_Yellow` | Tourist/Temporary | Yellow | 141 |
 
 ### 2.4. Train-Test Split
 - **Test set**: 35 images **per class** (210 total) — **balanced**
